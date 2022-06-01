@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RazzyShabirin
+- 👋 Hi, I’m @Razzy
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on haven't decided yet
